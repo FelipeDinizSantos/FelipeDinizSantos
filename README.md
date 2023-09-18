@@ -3,10 +3,11 @@
 <div align="center">
   <a href="https://github.com/GuiLeoni14">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeDinizSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeDinizSantos&layout=compact&langs_count=20&theme=tokyonight"/>
 </div>
 
-  ## Conhecimento das seguintes tecnologias: 
+  ## Conhecimento nas seguintes tecnologias: 
     
 <div style="display: inline_block"><br>
   <img align="center" alt="felipe-Csharp" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
