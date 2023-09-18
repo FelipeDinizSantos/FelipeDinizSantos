@@ -1,6 +1,6 @@
 ## Seja bem vindo a meu GITHUB! 👋
 
-<div align="left">
+<div style="display: inline_block" align="left" >
   <a href="https://github.com/GuiLeoni14">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeDinizSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeDinizSantos&layout=compact&langs_count=20&theme=tokyonight"/>
