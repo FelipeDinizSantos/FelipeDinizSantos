@@ -1,16 +1,27 @@
-### Hi there 👋
+## Seja bem vindo a meu GITHUB! 👋
 
-<!--
-**FelipeDinizSantos/FelipeDinizSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="https://github.com/GuiLeoni14">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeDinizSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeDinizSantos&layout=compact&langs_count=20&theme=tokyonight"/>
+</div>
 
-Here are some ideas to get you started:
+  ## Conhecimento das seguintes tecnologias: 
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="felipe-Csharp" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="felipe-reactNative" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="felipe-javascript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="felipe-mySql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="felipe-php" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="felipe-apache" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
+  <img align="center" alt="felipe-css" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="felipe-html" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Contate-me: 
+ 
+<div> 
+  <a href="https://br.linkedin.com/in/felipe-diniz-dos-santos-7251a2266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
+  <a href = "mailto:felipedinizdossantos0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
