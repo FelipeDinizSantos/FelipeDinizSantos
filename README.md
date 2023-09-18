@@ -22,7 +22,6 @@
 
   ## Contate-me: 
  
-<div> 
+<div align="center"> 
   <a href="https://br.linkedin.com/in/felipe-diniz-dos-santos-7251a2266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
-  <a href = "mailto:felipedinizdossantos0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
