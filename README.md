@@ -9,6 +9,7 @@
   ## Conhecimento nas seguintes tecnologias
     
 <div style="display: inline_block"><br>
+  <img align="center" alt="felipe-nodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="felipe-Csharp" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="felipe-reactNative" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="felipe-javascript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
