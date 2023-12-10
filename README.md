@@ -1,7 +1,7 @@
 ## Olá, me chamo Felipe! Seja bem vindo a meu GITHUB! 👋
 
 <div align="center">
-  <a href="https://github.com/GuiLeoni14">
+  <a href="https://github.com/FelipeDinizSantos">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeDinizSantos&layout=compact&langs_count=20&theme=tokyonight"/>
   <br/>
 </div>
