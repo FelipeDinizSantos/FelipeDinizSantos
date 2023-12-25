@@ -5,7 +5,7 @@ técnico em Analise e Desenvolvimento de Sistemas, e atualmente estou cursando D
 
 Tenho foco no desenvolvimento web atuando como fullstack na criação de soluções! Tenho conhecimentos sólidos em Javascript, trabalhando com tecnologias como REACT e NODEJS, aliado a minha experiecia em banco de dados relacionais como MySQL e não-relacionais como MongoDB! Também possuo conhecimentos sólidos em C# (.NET e Windows Forms), PHP, React-Native, DevOps e com a plataforma Azure criando recursos em nuvem! 
 
-Para mais informações confira [MEU SITE](...) ou sinta-se a vontade para explorar meus projetos aqui!
+Para mais informações confira [MEU SITE](...) ou sinta-se a vontade para explorar meus projetos por aqui!
 
 <!-- <div align="center">
   <a href="https://github.com/FelipeDinizSantos">
