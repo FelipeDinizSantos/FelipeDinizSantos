@@ -1,12 +1,7 @@
 ## Olá, me chamo Felipe! Seja bem vindo a meu GITHUB! 👋 
 
-Tenho 18 anos e atualmente estou cursando o ensino médio integrado com ensino
-técnico, há dois anos com foco em Desenvolvimento de Sistemas. Possuo
-habilidades sólidas em comunicação, liderança, trabalho em equipe e na resolução
-de situações-problema. Acredito no potencial da tecnologia para impulsionar o
-progresso humano e estou constantemente buscando aprendizado, crescimento e
-novos desafios.
-
+Tenho 18 anos e atualmente estou conclui o ensino médio integrado com ensino
+técnico em Analise e Desenvolvimento de Sistemas, e estou cursando Desenvolvimento de Sistemas na ETEC de Taboão da Serra.
 
 <!-- <div align="center">
   <a href="https://github.com/FelipeDinizSantos">
