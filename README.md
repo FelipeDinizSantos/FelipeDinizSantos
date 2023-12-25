@@ -1,7 +1,12 @@
 ## Olá, me chamo Felipe! Seja bem vindo a meu GITHUB! 👋 
 
-Tenho 18 anos e atualmente estou conclui o ensino médio integrado com ensino
-técnico em Analise e Desenvolvimento de Sistemas, e estou cursando Desenvolvimento de Sistemas na ETEC de Taboão da Serra.
+Tenho 18 anos e atualmente conclui o ensino médio integrado com ensino
+técnico em Analise e Desenvolvimento de Sistemas, e estou cursando Desenvolvimento de Sistemas na ETEC de Taboão da Serra! 
+
+Tenho foco no desenvolvimento web atuando como fullstack na criação de soluções! Tenho conhecimentos sólidos em Javascript, trabalhando com tecnologias como REACT e NODEJS, aliado a minha experiecia com banco de dados relacionais como MySQL e não-relacionais como MongoDB! Porém também tenho conhecimentos sólidos em C# (.NET e Windows Forms), PHP e REACT-NATIVE! 
+
+Para mais informações confira meu site: [MEU SITE](...) 
+Ou sinta-se a vontade para explorar meus projetos aqui!
 
 <!-- <div align="center">
   <a href="https://github.com/FelipeDinizSantos">
