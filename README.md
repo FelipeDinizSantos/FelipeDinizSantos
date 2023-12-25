@@ -6,7 +6,7 @@
   <br/>
 </div>
 
-  ## Conhecimento nas seguintes tecnologias
+<!-- ## Conhecimento nas seguintes tecnologias
     
 <div style="display: inline_block"><br>
   <img align="center" alt="felipe-nodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
@@ -18,7 +18,7 @@
   <img align="center" alt="felipe-apache" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
   <img align="center" alt="felipe-css" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="felipe-html" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-</div>
+</div> -->
 
   ## Contate-me 
  
