@@ -1,11 +1,11 @@
-## Olá, me chamo Felipe! Seja bem vindo a meu GITHUB! 👋 
+## Olá, me chamo Felipe! Seja bem vindo a meu GITHUB! 
 
 Tenho 18 anos! Recentemente conclui o ensino médio integrado com ensino
 técnico em Análise e Desenvolvimento de Sistemas, e atualmente estou cursando Desenvolvimento de Sistemas pela ETEC de Taboão da Serra! 
 
-Tenho foco no desenvolvimento web atuando como fullstack na criação de soluções! Tenho conhecimentos sólidos em Javascript, trabalhando com tecnologias como REACT e NODEJS, aliado a minha experiecia em banco de dados relacionais como MySQL e não-relacionais como MongoDB! Também possuo conhecimentos sólidos em C# (.NET e Windows Forms), PHP, React-Native, DevOps e com a plataforma Azure criando recursos em nuvem! 
+Tenho foco no desenvolvimento web atuando como fullstack na criação de soluções! Tenho conhecimentos sólidos em JavaScript, trabalhando com tecnologias como React e NodeJS, aliado a minha experiecia em bancos de dados, tanto relacionais, como MySQL, quanto não-relacionais, como MongoDB. Também possuo conhecimentos sólidos em C# (.NET e Windows Forms), PHP, React-Native, DevOps e com a plataforma Azure criando e gerenciando recursos em nuvem! 
 
-Para mais informações confira [MEU SITE](...) ou sinta-se a vontade para explorar meus projetos por aqui!
+Se quiser saber mais sobre mim, confira [MEU SITE](...) ou explore livremente os projetos que compartilhei aqui. Fique à vontade para entrar em contato ou colaborar em alguma iniciativa interessante! 👋
 
 <!-- <div align="center">
   <a href="https://github.com/FelipeDinizSantos">
