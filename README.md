@@ -1,10 +1,18 @@
-## Olá, me chamo Felipe! Seja bem vindo a meu GITHUB! 👋
+## Olá, me chamo Felipe! Seja bem vindo a meu GITHUB! 👋 
 
-<div align="center">
+Tenho 18 anos e atualmente estou cursando o ensino médio integrado com ensino
+técnico, há dois anos com foco em Desenvolvimento de Sistemas. Possuo
+habilidades sólidas em comunicação, liderança, trabalho em equipe e na resolução
+de situações-problema. Acredito no potencial da tecnologia para impulsionar o
+progresso humano e estou constantemente buscando aprendizado, crescimento e
+novos desafios.
+
+
+<!-- <div align="center">
   <a href="https://github.com/FelipeDinizSantos">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeDinizSantos&layout=compact&langs_count=20&theme=tokyonight"/>
   <br/>
-</div>
+</div> -->
 
 <!-- ## Conhecimento nas seguintes tecnologias
     
