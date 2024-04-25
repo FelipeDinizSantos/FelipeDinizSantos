@@ -1,4 +1,4 @@
-## Seja bem vindo a meu GITHUB! 
+## Seja Bem Vindo a Meu Repositório! 
 
 Me chamo Felipe e tenho 19 anos! Recentemente conclui o ensino médio integrado com ensino
 técnico em Análise e Desenvolvimento de Sistemas, e atualmente estou cursando Desenvolvimento de Sistemas pela ETEC de Taboão da Serra! 
