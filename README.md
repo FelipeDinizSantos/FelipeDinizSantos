@@ -3,7 +3,7 @@
 Me chamo Felipe e tenho 19 anos! Recentemente conclui o ensino médio integrado com ensino
 técnico em Análise e Desenvolvimento de Sistemas, e atualmente estou cursando Desenvolvimento de Sistemas pela ETEC de Taboão da Serra! 
 
-Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criação de soluções! Possuo conhecimentos sólidos em JavaScript, trabalhando com tecnologias como React e NodeJS, aliadas a minha experiência em bancos de dados, tanto relacionais, como MySQL, quanto não-relacionais, como MongoDB. Porém, também tenho prática no uso de tecnologias como C# (.NET e Windows Forms), PHP, React-Native, DevOps e com a plataforma Azure criando e gerenciando recursos em nuvem!
+Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criação de soluções! Possuo conhecimentos sólidos em JavaScript, trabalhando com tecnologias como React e NodeJS, aliadas a minha experiência em bancos de dados, tanto relacionais, como MySQL, quanto não-relacionais, como MongoDB. Porém, também tenho prática no uso de tecnologias como C# (.NET e Windows Forms), Laravel, React-Native, DevOps e com a plataforma Azure criando e gerenciando recursos em nuvem!
 
 
 Fique à vontade para entrar em contato ou colaborar em alguma iniciativa interessante! 👋 
