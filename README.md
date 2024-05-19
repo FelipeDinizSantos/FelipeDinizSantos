@@ -7,14 +7,14 @@ Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criaçã
 
 
 Fique à vontade para entrar em contato ou colaborar em alguma iniciativa interessante! 👋 
-
+<!-- 
 <div align="center">
   <a href="https://github.com/FelipeDinizSantos">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeDinizSantos&layout=compact&langs_count=20&theme=tokyonight"/>
   <br/>
 </div> 
 
-<!-- ## Conhecimento nas seguintes tecnologias
+## Conhecimento nas seguintes tecnologias
     
 <div style="display: inline_block"><br>
   <img align="center" alt="felipe-nodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
