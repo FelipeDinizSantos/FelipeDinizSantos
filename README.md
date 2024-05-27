@@ -30,6 +30,6 @@ Fique à vontade para entrar em contato ou colaborar em alguma iniciativa intere
 
   ## Contate-me 
  
-<div align="center"> 
+<div align="right"> 
   <a href="https://br.linkedin.com/in/felipe-diniz-dos-santos-7251a2266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
 </div>
