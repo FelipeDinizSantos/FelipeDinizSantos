@@ -13,21 +13,7 @@ Fique à vontade para entrar em contato ou colaborar em alguma iniciativa intere
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeDinizSantos&layout=compact&langs_count=20&theme=tokyonight"/>
   <br/>
 </div> 
-
-## Conhecimento nas seguintes tecnologias
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="felipe-nodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="felipe-Csharp" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="felipe-reactNative" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="felipe-javascript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="felipe-mySql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="felipe-php" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="felipe-apache" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
-  <img align="center" alt="felipe-css" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="felipe-html" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-</div>
-
   ## Contate-me 
  
 <div align="left"> 
