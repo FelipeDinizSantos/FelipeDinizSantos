@@ -7,7 +7,7 @@ Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criaçã
 
 
 Fique à vontade para entrar em contato ou colaborar em alguma iniciativa interessante! 👋 
-<!-- 
+
 <div align="center">
   <a href="https://github.com/FelipeDinizSantos">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeDinizSantos&layout=compact&langs_count=20&theme=tokyonight"/>
@@ -26,7 +26,7 @@ Fique à vontade para entrar em contato ou colaborar em alguma iniciativa intere
   <img align="center" alt="felipe-apache" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
   <img align="center" alt="felipe-css" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="felipe-html" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-</div> -->
+</div>
 
   ## Contate-me 
  
