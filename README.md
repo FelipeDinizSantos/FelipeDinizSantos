@@ -1,6 +1,6 @@
 ## Seja Bem Vindo a Meu Repositório! 
 
-Me chamo Felipe e tenho 19 anos! Sou formado em técnico em técnico em Análise e Desenvolvimento de Sistemas pelo NOVOTEC, e Desenvolvimento de Sistemas pela ETEC de Taboão da Serra! 
+Me chamo Felipe e tenho 19 anos! Sou formado em técnico em Análise e Desenvolvimento de Sistemas pelo NOVOTEC, e Desenvolvimento de Sistemas pela ETEC de Taboão da Serra! 
 
 Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criação de soluções! Possuo conhecimentos sólidos em Typescript, trabalhando com tecnologias como React e NestJS, aliadas a minha experiência em bancos de dados, tanto relacionais, como MySQL, quanto não-relacionais, como MongoDB. Porém, também tenho prática no uso de tecnologias como C# (Windows Forms), Laravel, React-Native, Ionic, DevOps e com a plataforma Azure, criando e gerenciando recursos em nuvem!
 
