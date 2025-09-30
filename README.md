@@ -2,7 +2,7 @@
 
 Me chamo Felipe e tenho 20 anos! Sou formado em técnico em Análise e Desenvolvimento de Sistemas pelo NOVOTEC, e Desenvolvimento de Sistemas pela ETEC de Taboão da Serra! 
 
-Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criação de soluções! Possuo conhecimentos sólidos em Typescript, trabalhando com tecnologias como React e NestJS, aliadas a minha experiência em bancos de dados, tanto relacionais, como MySQL, quanto não-relacionais, como MongoDB. Porém, também tenho prática no uso de tecnologias como C# (Windows Forms), Laravel, React-Native, Ionic, DevOps e com a plataforma Azure, criando e gerenciando recursos em nuvem!
+Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criação de soluções! Possuo conhecimentos sólidos em Typescript, trabalhando com tecnologias como NextJS e NestJS, aliadas a minha experiência em bancos de dados, tanto relacionais, como MySQL, quanto não-relacionais, como MongoDB. Porém, também tenho prática no uso de tecnologias como C# (Windows Forms), Laravel, React-Native, Ionic, DevOps e com a plataforma Azure, criando e gerenciando recursos em nuvem!
 
 
 ### Fique à vontade para entrar em contato ou colaborar em alguma iniciativa interessante! 👋 
