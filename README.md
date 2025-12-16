@@ -6,7 +6,7 @@ Atualmente atuo como soldado do Exército Brasileiro no desenvolvimento de siste
 
 Minha formação inclui bacharelado em Ciência da Computação (em andamento) e base técnica em desenvolvimento de sistemas, com atuação principal em aplicações web e sistemas internos.
 
-Valorizo código claro, decisões técnicas bem justificadas e soluções alinhadas ao uso real do sistema.
+Valorizo decisões técnicas bem justificadas e soluções alinhadas ao uso real do sistema.
 
 ---
 
