@@ -1,14 +1,21 @@
-## Seja Bem Vindo a Meu Repositório! 
+## Sobre
 
-Me chamo Felipe e tenho 20 anos! Sou formado em técnico em Análise e Desenvolvimento de Sistemas pelo NOVOTEC, e Desenvolvimento de Sistemas pela ETEC de Taboão da Serra! 
+Sou desenvolvedor de software com foco na criação de soluções simples, legíveis e sustentáveis.
 
-Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criação de soluções! Possuo conhecimentos sólidos em Typescript, trabalhando com tecnologias como NextJS e NestJS, aliadas a minha experiência em bancos de dados, tanto relacionais, como MySQL, quanto não-relacionais, como MongoDB. Porém, também tenho prática no uso de tecnologias como C# (Windows Forms), Laravel, React-Native, Ionic, DevOps e com a plataforma Azure, criando e gerenciando recursos em nuvem!
+Atualmente atuo como soldado do Exército Brasileiro no desenvolvimento de sistemas internos para apoio às atividades administrativas e operacionais da força antiaérea, trabalhando desde a implementação até a manutenção e evolução dos sistemas.
 
+Minha formação inclui bacharelado em Ciência da Computação (em andamento) e base técnica em desenvolvimento de sistemas, com atuação predominante em aplicações web e sistemas internos.
 
-### Fique à vontade para entrar em contato ou colaborar em alguma iniciativa interessante! 👋 
-    
-  ## Contate-me 
- 
-<div align="left"> 
-  <a href="https://br.linkedin.com/in/felipe-diniz-dos-santos-7251a2266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
+Valorizo código claro, decisões técnicas bem justificadas e soluções alinhadas ao uso real do sistema.
+
+---
+
+## Contato
+
+Fique à vontade para entrar em contato ou colaborar em iniciativas técnicas interessantes.
+
+<div align="left">
+  <a href="https://br.linkedin.com/in/felipe-diniz-dos-santos-7251a2266" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
