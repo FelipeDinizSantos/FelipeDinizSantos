@@ -2,7 +2,7 @@
 
 Sou desenvolvedor de software com foco na criação de soluções simples, legíveis e úteis.
 
-Atualmente atuo como soldado do Exército Brasileiro no desenvolvimento de sistemas internos para apoio às atividades administrativas e operacionais da força antiaérea através do Batalhão de Manutenção e Suprimento de Artilharia Antiaérea, trabalhando desde a implementação até a manutenção e evolução dos sistemas.
+Atualmente atuo como soldado do Exército Brasileiro no desenvolvimento de sistemas internos para apoio às atividades administrativas e operacionais da força antiaérea, através do Batalhão de Manutenção e Suprimento de Artilharia Antiaérea, trabalhando desde a implementação até a manutenção e evolução dos sistemas.
 
 Minha formação inclui bacharelado em Ciência da Computação (em andamento) e base técnica em desenvolvimento de sistemas, com atuação principal em aplicações web e sistemas internos.
 
