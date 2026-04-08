@@ -2,8 +2,7 @@
 
 Bacharelando em Ciência da Computação na Universidade Presbiteriana
 Mackenzie, com experiência em análise e desenvolvimento de sistemas na KRL
-Services e no desenvolvimento de sistemas internos durante atuação no Exército
-Brasileiro. Busco oportunidade como desenvolvedor ou estagiário.. 
+Services e no desenvolvimento de sistemas durante serviço militar no Exército. Busco oportunidade como desenvolvedor. 
 
 ---
 
