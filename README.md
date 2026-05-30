@@ -1,5 +1,3 @@
-## Sobre 
-
 Bacharelando em Ciência da Computação na Universidade Presbiteriana
 Mackenzie, atuo como desenvolvedor Laravel Jr. 
 
