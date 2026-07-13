@@ -1,5 +1,5 @@
 Bacharelando em Ciência da Computação na Universidade Presbiteriana
-Mackenzie, atuo como desenvolvedor Laravel 
+Mackenzie, atuo como desenvolvedor Laravel Fullstack
 
 --- 
 
